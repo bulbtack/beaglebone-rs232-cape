@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name beaglebone-rs232)(type KiCad)(uri "$(KIPRJMOD)\\beaglebone-rs232.pretty")(options "")(descr ""))
+)
