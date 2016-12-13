@@ -37,7 +37,7 @@ encoding utf-8
 Sheet 1 1
 Title "BeagleBone RS-232 Cape"
 Date "2016-11-14"
-Rev "1C"
+Rev "1D"
 Comp "BulbTack"
 Comment1 ""
 Comment2 ""
@@ -614,11 +614,11 @@ Wire Wire Line
 	3400 4750 3500 4750
 Wire Wire Line
 	7550 2400 7450 2400
-Text GLabel 7550 4950 2    60   Input ~ 0
+Text GLabel 7550 4750 2    60   Input ~ 0
 SER1_TX
 Text GLabel 7550 2500 2    60   Input ~ 0
 SER4_TX
-Text GLabel 7550 4750 2    60   Input ~ 0
+Text GLabel 7550 4950 2    60   Input ~ 0
 SER1_RX
 Text GLabel 7550 2700 2    60   Input ~ 0
 SER4_RX
